@@ -1,0 +1,9 @@
+CPU Scheduling Simulation Report
+--------------------------------
+Algorithm: Priority
+Average Waiting Time: 4.00 sec(s)
+Average Turnaround Time: 9.00 sec(s)
+CPU Utilization: 93.33 %
+Throughput: 0.2000 processes/sec
+
+Report Generated On: 4/27/2025 11:34:47 PM

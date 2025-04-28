@@ -1,0 +1,9 @@
+CPU Scheduling Simulation Report
+--------------------------------
+Algorithm: Round Robin
+Average Waiting Time: 3.00 sec(s)
+Average Turnaround Time: 7.00 sec(s)
+CPU Utilization: 75.00 %
+Throughput: 0.2500 processes/sec
+
+Report Generated On: 4/27/2025 11:40:36 PM

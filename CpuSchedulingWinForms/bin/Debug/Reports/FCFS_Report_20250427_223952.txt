@@ -1,0 +1,9 @@
+CPU Scheduling Simulation Report
+--------------------------------
+Algorithm: FCFS
+Average Waiting Time: 1.00 sec(s)
+Average Turnaround Time: 6.00 sec(s)
+CPU Utilization: 100.00 %
+Throughput: 0.4000 processes/sec
+
+Report Generated On: 4/27/2025 10:39:52 PM

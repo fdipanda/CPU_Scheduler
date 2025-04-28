@@ -1,0 +1,9 @@
+CPU Scheduling Simulation Report
+--------------------------------
+Algorithm: Shortest Remaining Time First Scheduling
+Average Waiting Time: 2.33 sec(s)
+Average Turnaround Time: 6.33 sec(s)
+CPU Utilization: 92.31 %
+Throughput: 0.2308 processes/sec
+
+Report Generated On: 4/27/2025 11:06:42 PM

@@ -1,0 +1,9 @@
+CPU Scheduling Simulation Report
+--------------------------------
+Algorithm: Highest Response Ratio Next Scheduling
+Average Waiting Time: 2.67 sec(s)
+Average Turnaround Time: 6.00 sec(s)
+CPU Utilization: 76.92 %
+Throughput: 0.2308 processes/sec
+
+Report Generated On: 4/27/2025 11:32:58 PM
